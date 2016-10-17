@@ -24,7 +24,7 @@ public class Functions {
 	    try {
 			
 			// The location of the file where it gets the questions from
-	    	FileReader FR = new FileReader("E:\\Practice\\Eclips\\Testing\\src\\gui\\Questions.txt");
+	    	FileReader FR = new FileReader("");
 	     	Scanner scan = new Scanner(FR);
    	    	scan.useDelimiter("/");
    	    
