@@ -23,7 +23,7 @@ public class Functions {
 		
 	    try {
 			
-			// The location of the file where it gets the questions from
+			//Read the file called Questions.txt in the repository
 	    	FileReader FR = new FileReader("");
 	     	Scanner scan = new Scanner(FR);
    	    	scan.useDelimiter("/");
